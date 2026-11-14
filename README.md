@@ -237,7 +237,13 @@
 
 <br>
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ic3nya/PixivPaper&type=Date)](https://star-history.dera.page/#ic3nya/PixivPaper&type=Date)
+<a href="https://star-history.com/#ic3nya/PixivPaper&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ic3nya/PixivPaper&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ic3nya/PixivPaper&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ic3nya/PixivPaper&type=Date" />
+ </picture>
+</a>
 
 ---
 
