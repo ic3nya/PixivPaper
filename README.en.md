@@ -6,14 +6,10 @@
 
 <br>
 
-[![GitHub Stars](https://img.shields.io/github/stars/ic3nya/PixivPaper?style=for-the-badge&logo=github&color=f5c842)](https://github.com/ic3nya/PixivPaper/stargazers)
-[![GitHub Release](https://img.shields.io/github/v/release/ic3nya/PixivPaper?style=for-the-badge&logo=windows&color=0078D4)](https://github.com/ic3nya/PixivPaper/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ic3nya/PixivPaper/releases/latest)
 [![Stage](https://img.shields.io/badge/Stage-Public%20Preview-F59E0B?style=for-the-badge)](#roadmap)
-[![Open Source Goal](https://img.shields.io/badge/Open%20Source-At%20v1.0%20Release-10B981?style=for-the-badge)](#roadmap)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Upcoming-10B981?style=for-the-badge)](./更新计划.md)
 
-[![Issues](https://img.shields.io/github/issues/ic3nya/PixivPaper?style=flat-square&color=brightgreen)](https://github.com/ic3nya/PixivPaper/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/ic3nya/PixivPaper?style=flat-square)](https://github.com/ic3nya/PixivPaper/commits)
-[![Downloads](https://img.shields.io/github/downloads/ic3nya/PixivPaper/total?style=flat-square&color=e74c3c)](https://github.com/ic3nya/PixivPaper/releases)
 [![Tech](https://img.shields.io/badge/.NET%2010-NativeAOT-512BD4?style=flat-square)](https://dotnet.microsoft.com/)
 [![UI](https://img.shields.io/badge/UI-Avalonia%2011-8B5CF6?style=flat-square)](https://avaloniaui.net/)
 [![Render](https://img.shields.io/badge/Wallpaper-Direct3D%2011%20%2B%20HLSL-10B981?style=flat-square)](#wallpaper-engine)
@@ -236,25 +232,15 @@ Here is a quick tour of the core feature screens. For all 14 screenshots and the
   5. Localization refinement and progressive support for additional languages
 - [ ] **Full Open Source**: Open-source the complete codebase once step 3 (wallpaper engine, performance & logic optimization) is complete
 
-<br>
-
-<a href="https://star-history.com/#ic3nya/PixivPaper&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ic3nya/PixivPaper&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ic3nya/PixivPaper&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ic3nya/PixivPaper&type=Date" />
- </picture>
-</a>
-
 ---
 
 <div align="center">
 
-**Like what PixivPaper is building? Leave a ⭐ Star to follow `v1.0` and the open-source release!**
+**Try the preview build, share your feedback, and follow our [Update Plan](./更新计划.md) toward open source!**
 
-[![Star this repo](https://img.shields.io/badge/-Star%20this%20repo-f5c842?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ic3nya/PixivPaper)
-&nbsp;
 [![Download Preview](https://img.shields.io/badge/-Download%20Preview-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ic3nya/PixivPaper/releases/latest)
+&nbsp;
+[![Report Issue](https://img.shields.io/badge/-Issues%20%26%20Feedback-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ic3nya/PixivPaper/issues)
 
 <sub>Powered by <a href="https://avaloniaui.net/">Avalonia</a> · <a href="https://github.com/amwx/FluentAvalonia">FluentAvalonia</a> · <a href="https://github.com/amerkoleci/Vortice.Windows">Vortice.Windows</a> · <a href="https://github.com/mono/SkiaSharp">SkiaSharp</a></sub>
 
